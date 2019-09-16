@@ -9,7 +9,7 @@
 * [Vue.js](https://vuejs.org)
 
 ## Topic
-* [Run laravel project from github](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#run-laravel-project-from-github)
+* [Run laravel project from github](https://github.com/jitunmohajan/Laravel_Note#create-project)
 
 * [create project](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#create-project)
 * [create Model](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md)
