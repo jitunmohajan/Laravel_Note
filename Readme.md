@@ -16,9 +16,9 @@
 * [Create Controller](https://github.com/jitunmohajan/Laravel_Note#create-controller)
 * [Create Controller with resources](https://github.com/jitunmohajan/Laravel_Note#Create-Controller-with-resources)
 * [show routelist](https://github.com/jitunmohajan/Laravel_Note#show-routelist)
-* [Mastering the template in Laravel](https://github.com/jitunmohajan/Laravel_Note#Mastering-the-template-in-Laravel)
+* [Mastering the template in Laravel](https://github.com/jitunmohajan/Laravel_Note#template-copy)
 * [Login](https://github.com/jitunmohajan/Laravel_Note#Login)
-* [log out](https://github.com/jitunmohajan/Laravel_Note#log-out)
+* [log out](https://github.com/jitunmohajan/Laravel_Note#LogOut)
 * [Show successful message](https://github.com/jitunmohajan/Laravel_Note#Show-successful-message)
 * [Change validation name](https://github.com/jitunmohajan/Laravel_Note#Change-validation-name)
 * [Show previous text after finding invalid data](https://github.com/jitunmohajan/Laravel_Note#Show-previous-text-after-finding-invalid-data)
@@ -28,9 +28,9 @@
 * [Validation](https://github.com/jitunmohajan/Laravel_Note#Validation)
 * [Register](https://github.com/jitunmohajan/Laravel_Note#Register)
 * [Seeder](https://github.com/jitunmohajan/Laravel_Note#Seeder)
-* [show all post](https://github.com/jitunmohajan/Laravel_Note#show-all-post)
+* [show all post](https://github.com/jitunmohajan/Laravel_Note#ALL-post-show-all-data)
 * [Delete](https://github.com/jitunmohajan/Laravel_Note#Delete)
-* [Adding image or upload image](https://github.com/jitunmohajan/Laravel_Note#Adding-image-or-upload-image)
+* [Adding image or upload image](https://github.com/jitunmohajan/Laravel_Note#Adding-image)
 
 ## laravel tutorial:
 1.[Bangla tutorial](https://www.youtube.com/watch?v=l6R5oZe20bA&list=PLH246IZCIBeA-k6OeV4zw7MyhzzrQPyyL)
