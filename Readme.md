@@ -75,7 +75,7 @@ ________________________________________________________________________________
 php artisan make:comtroller ControllerName
 __________________________________________________________________________________
 ## Create Controller & resources:
-php artisan make:comtroller ControllerName --resource
+php artisan make:controller ControllerName --resource
 __________________________________________________________________________________
 ## show routelist:
 php artisan route:list
