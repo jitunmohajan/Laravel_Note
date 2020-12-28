@@ -1,47 +1,76 @@
 ### Some Important link:
 
 * [laravel 5.8](https://laravel.com)
+* [git tutorial](https://www.youtube.com/watch?v=M2a7OQX8te4&list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w&fbclid=IwAR2-O5HXeHCSjEYlRVb718dOw32phM_oZ-catDY9bEGhw4AZXVZOZECJzG4)
 * [anik sir(laravel note)](https://docs.google.com/document/d/1NJSldZ6a2Fs4q4q7KgH2llKdtLe4hylUwi10lKTGNDQ/edit?fbclid=IwAR1HTl96WSO_Xire6B3BXxoA-DwYH_qtqVJi-CWPXAYnpFEFBfQaFCS-hNc)
 * [theme 1](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
 * [template monster](https://www.templatemonster.com/bootstrap-website-templates/)
 * [Bootstrap](https://getbootstrap.com)
 * [Bootsnip](https://bootsnipp.com)
 * [Vue.js](https://vuejs.org)
+* [pixels for high quality image](https://www.pexels.com)
 
 ## Topic
-* [Run laravel project from github](https://github.com/jitunmohajan/Laravel_Note#Run-laravel-project-from-github)
+* [Run laravel project from github](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#run-laravel-project-from-github)
 
-* [create project](https://github.com/jitunmohajan/Laravel_Note#create-project)
-* [create Model](https://github.com/jitunmohajan/Laravel_Note#create-model)
-* [Create Controller](https://github.com/jitunmohajan/Laravel_Note#create-controller)
-* [Create Controller with resources](https://github.com/jitunmohajan/Laravel_Note#Create-Controller-with-resources)
-* [show routelist](https://github.com/jitunmohajan/Laravel_Note#show-routelist)
-* [Mastering the template in Laravel](https://github.com/jitunmohajan/Laravel_Note#template-copy)
-* [Login](https://github.com/jitunmohajan/Laravel_Note#Login)
-* [log out](https://github.com/jitunmohajan/Laravel_Note#LogOut)
-* [Show successful message](https://github.com/jitunmohajan/Laravel_Note#Show-successful-message)
-* [Change validation name](https://github.com/jitunmohajan/Laravel_Note#Change-validation-name)
-* [Show previous text after finding invalid data](https://github.com/jitunmohajan/Laravel_Note#Show-previous-text-after-finding-invalid-data)
-* [Review the image when we upload the image](https://github.com/jitunmohajan/Laravel_Note#Review-the-image-when-we-upload-the-image)
-* [Middleware](https://github.com/jitunmohajan/Laravel_Note#Middleware)
+* [create project](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#create-project)
+* [edit env file](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#edit-env-file-like-as-followed)
+* [create Model](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md)
+* [Create Controller](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#create-controller)
+* [Create Controller with resources](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#create-controller--resources)
+* [show routelist](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#show-routelist)
+* [Mastering the template in Laravel](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#template-copy)
+* [Login](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#login)
+* [log out](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#logout)
+* [Show successful message](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#showing-successfull-massage)
+* [Change validation name](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#to-change-validation-name-)
+* [Show previous text after finding invalid data](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#for-showing-previous-text-after-finding-invalid-data)
+* [Review the image when we upload the image](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#review-the-image-when-we-take-image-as-input)
+* [Middleware](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#protecting-routes-via-middleware)
 
-* [Validation](https://github.com/jitunmohajan/Laravel_Note#Validation)
-* [Register](https://github.com/jitunmohajan/Laravel_Note#Register)
-* [Seeder](https://github.com/jitunmohajan/Laravel_Note#Seeder)
-* [show all post](https://github.com/jitunmohajan/Laravel_Note#ALL-post-show-all-data)
-* [Delete](https://github.com/jitunmohajan/Laravel_Note#Delete)
-* [Adding image or upload image](https://github.com/jitunmohajan/Laravel_Note#Adding-image)
+* [Validation](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#validation)
+* [Register](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#register)
+* [Seeder](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#seeder)
+* [show all post](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#all-post-show-all-data)
+* [Edit](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#edit)
+* [Delete](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#delete)
+* [Adding image or upload image](https://github.com/jitunmohajan/laravel-note/blob/master/laravel%20project%20final%20note.md#adding-image)
 
 ## laravel tutorial:
 1.[Bangla tutorial](https://www.youtube.com/watch?v=l6R5oZe20bA&list=PLH246IZCIBeA-k6OeV4zw7MyhzzrQPyyL)
+## Create project:
 
+first setup xamp than composer(from laravel page) after that use this commands>> 
+* online creation:
+
+     composer create-project laravel/laravel project-name
+
+* offline setup::
+    composer global require laravel/installer
+
+* create new project in ofline>
+    laravel new project-name
+__________________________________________________________________________________
 ## Serve:
 php artisan serve
 php artisan --port=8002 or anything
 _________________________________________________________________________________
 
+## Edit .env file like as followed
 
+DB_CONNECTION=mysql
 
+DB_HOST=127.0.0.1
+
+DB_PORT=3306
+
+DB_DATABASE=asd
+
+DB_USERNAME=root
+
+DB_PASSWORD=
+
+_________________________________________________________________________________
 ## Run laravel project from github:
 
 * first open git bash on the path where you want to run the laravel project
@@ -54,28 +83,15 @@ ________________________________________________________________________________
 * step 6: create a database then change database name on .env file 
 * step 7:php artisan migrate
 __________________________________________________________________________________
-## Create project:
 
-* online creation:
-
-composer create-project laravel/laravel project-name
-
-* offline setup::
-setup for ofline
-composer global require laravel/installer
-
-create new project in ofline>
-
-laravel new project-name
-__________________________________________________________________________________
 ## Create model:
 php artisan make:model model-name -m
 __________________________________________________________________________________
 ## Create Controller:
-php artisan make:comtroller ControllerName
+php artisan make:controller ControllerName
 __________________________________________________________________________________
 ## Create Controller & resources:
-php artisan make:controller ControllerName --resource
+php artisan make:comtroller ControllerName --resource
 __________________________________________________________________________________
 ## show routelist:
 php artisan route:list
